@@ -1,3 +1,8 @@
+/**
+* @author Chaewon Eom
+* This document tests MainDictionary class.
+*/
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.Before;
