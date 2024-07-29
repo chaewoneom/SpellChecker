@@ -1,3 +1,8 @@
+/**
+* @author Chaewon Eom
+* This document tests UserDictionary class.
+*/
+
 import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.*;
 import java.io.File;
