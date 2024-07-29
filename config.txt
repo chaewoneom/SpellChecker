@@ -1,0 +1,2 @@
+Default Save Location: /Users/chaewoneom/Desktop
+Filter or skip HTML/XML tags: true
