@@ -2,7 +2,9 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * The Housekeeping class handles various states and functionalities related to file operations and user help in a spell checker application.
+ * @author Chaewon Eom
+ * The Housekeeping class handles various states and functionalities related to file operations 
+ * and user help in a spell checker application.
  */
 public class Housekeeping {
     private boolean savedBeforeExiting;
