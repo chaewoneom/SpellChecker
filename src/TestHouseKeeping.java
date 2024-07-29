@@ -1,3 +1,8 @@
+/**
+* @author Chaewon Eom
+* This document tests HouseKeeping class.
+*/
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.List;
